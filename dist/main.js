@@ -20,7 +20,7 @@ define(["esri/identity/OAuthInfo", "esri/kernel", "esri/Map", "esri/WebMap", "es
   }
 
   var info = new _OAuthInfo2.default({
-    appId: "UYi0AqKPKbDn26bo",
+    appId: "zppZ53G093yZV7tG",
     popup: false
   });
 
