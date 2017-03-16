@@ -6,3 +6,5 @@
 * `npm run dev` - compile and watch for changes
 
 http://odoe.net/blog/using-elm-arcgis-api-javascript/
+
+Live demo: https://odoe.github.io/elm-jsapi4

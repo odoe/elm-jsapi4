@@ -10,7 +10,7 @@ import { loadPortal, queryPortalItems } from "./portalResources.service";
 import { animate, inSine } from "./animate";
 
 const info = new OAuthInfo({
-  appId: "UYi0AqKPKbDn26bo",
+  appId: "zppZ53G093yZV7tG",
   popup: false
 });
 
